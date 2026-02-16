@@ -1,0 +1,33 @@
+label,daily_msv,cumulative_msv,category
+Leuk 5-150[23],77.5,77.5,low
+Solid 5-20[19],12.5,12.5,low
+Solid 20-40[19],30,30,low
+Solid 40-125[19],82.5,82.5,risk
+Leuk 150-300[23],225,225,risk
+Solid 125+[19],125,125,risk
+Leuk 300+[23],2650,2650,risk
+Goiania[10],6000,6000,severe
+Thai scrap[11],6000,6000,severe
+Chern firemen[24],16000,16000,severe
+H. Daghlian[14],5900,5900,severe
+Tokaimura[14],17000,17000,severe
+Louis Slotin[14],21000,21000,severe
+Norway tech[6],38500,38500,severe
+R. Peabody[14],100000,100000,severe
+Chernobyl liquidators[12],1500,1500,low
+Litvinenko[5],4000,96000,severe
+Belarus kids[27],1219.5,780,risk
+Ukraine kids[22],814,560,risk
+Eben Byers[13],300,366000,severe
+Evans radium hi[4],80,80000,risk
+Dial painters hi[20],20,400000,risk
+Evans Ra mid[4],50,50000,risk
+Dial painters[20],20,160000,low
+Evans radium lo[4],20,20000,low
+Albert Stevens[18],8,61000,low
+UPPU Club[25],2,7200,low
+"Taipei Apt hi[2,8]",3,4000,low
+"Taipei Apt mid[2,8]",0.16,420,low
+"Taipei Apt low[2,8]",0.05,120,low
+Keralans[16],88,350,low
+NRX Clean Up[26],150,200,low
